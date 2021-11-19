@@ -1,2 +1,4 @@
-// Anything exported from this file is importable by other in-browser modules.
+import "./styles/reset.css";
+import "./styles/global.css";
+
 export { Button } from "./components/Button/Button.component";
